@@ -11,7 +11,7 @@
   </a>
 </p>
 
-> [!TIP]
+> [TIP]
 > If you are looking for the full roadmap, including this project, go back to the [getting started](https://devopsroadmap.io/getting-started) page.
 
 This repository is the starting point for [HiveBox](https://devopsroadmap.io/projects/hivebox/), the end-to-end hands-on project.
@@ -22,21 +22,6 @@ The project aims to cover the whole Software Development Life Cycle (SDLC). That
 
 Happy DevOpsing ♾️
 
-## Before you start
-
-Here is a pre-start checklist:
-
-- ⭐ <a target="_blank" href="https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap">Star the **roadmap** repo</a> on GitHub for better visibility.
-- ✉️ <a target="_blank" href="https://newsletter.devopsroadmap.io/subscribe">Join the community</a> for the project community activities, which include mentorship, job posting, online meetings, workshops, career tips and tricks, and more.
-- 🌐 <a target="_blank" href="https://t.me/DevOpsHive/985">Join the Telegram group</a> for interactive communication.
-
-## Preparation
-
-- [Create GitHub account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) (if you don't have one), then [fork this repository](https://github.com/DevOpsHiveHQ/devops-hands-on-project-hivebox/fork) and start from there.
-- [Create GitHub project board](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) for this repository (use `Kanban` template).
-- Each phase should be presented as a pull request against the `main` branch. Don’t push directly to the main branch!
-- Document as you go. Always assume that someone else will read your project at any phase.
-- You can get senseBox IDs by checking the [openSenseMap](https://opensensemap.org/) website. Use 3 senseBox IDs close to each other (you can use the following [5eba5fbad46fb8001b799786](https://opensensemap.org/explore/5eba5fbad46fb8001b799786), [5c21ff8f919bf8001adf2488](https://opensensemap.org/explore/5c21ff8f919bf8001adf2488), and [5ade1acf223bd80019a1011c](https://opensensemap.org/explore/5ade1acf223bd80019a1011c)). Just copy the IDs, you will need them in the next steps.
 
 <br/>
 <p align="center">
@@ -47,4 +32,55 @@ Here is a pre-start checklist:
 
 ---
 
-** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+
+# HiveBox - DevOps End-to-End Hands-On Project
+
+## Phase 1: Kickoff and Preparation
+
+### Overview
+In **Phase 1**, I focused on laying the groundwork for the HiveBox project. This phase includes understanding my role in the project, setting up the Kanban board, and structuring the repository for the upcoming work in the project. 
+
+### Key Activities in Phase 1
+1. **Kickoff:**
+   - Decide which Agile methodology you will use, such as Scrum, Kanban, or Scrumban
+   
+2. **Preparation:**
+   - Fork the HiveBox repository.
+   - Set up a Kanban project board on GitHub to manage tasks.
+   - Each phase should be presented as a pull request against the main branch. 
+   - Document as you go. 
+   - Get senseBox IDs by checking the openSenseMap website. Use 3 senseBox IDs close to each other. Copy the IDs, you will need them in the next steps.
+
+### Steps Taken
+- Chose **Kanban** as the Agile methodology for its flexibility and visual approach to task management. 
+  
+- **Kanban Setup:**
+   - Created the **Kanban board** on GitHub Projects with **To Do**, **In Progress**, and **Completed** columns.
+   - Named the project `Hivebox Devops Workflow`.
+   - Ensured the board structure aligns with project needs (tasks, progress tracking).
+   
+- **Repository Setup:**
+   - Forked the **HiveBox** repo and cloned it to my local machine.
+   - Created a branch (`phase1-setup`) for this phase.
+   - Kept this branch focused on setup and initial documentation.
+
+- **PR Workflow**:
+  - Created a pull request for the README update to ensure that changes were reviewed before being merged into the main branch.
+
+- Identified **3 senseBox IDs** for use in later phases of the project:
+
+  `5eba5fbad46fb8001b799786`
+
+  `5c21ff8f919bf8001adf2488`
+
+  `5ade1acf223bd80019a1011c`
+
+---  
+
+### Next Steps
+- In **Phase 2**, I will start implementing core functionality.
+- As I move into the next phases, I will continue adding documentation in this format for clarity and better tracking of progress.
+
+---
+
+
