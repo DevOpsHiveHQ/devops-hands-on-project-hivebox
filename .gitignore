@@ -1,0 +1,18 @@
+ .# Docker files
+Dockerfile
+.dockerignore
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+env/
+.env
+# other unneeded files or folders
+*.log
+*.swp
+*.swo
+.vscode/
+.idea/
