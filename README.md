@@ -53,3 +53,12 @@ Here is a pre-start checklist:
 ## Implementation
 
 ** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+## HiveBox App - Version Function
+
+### Version
+- Current Version: `v0.0.1`
+
+### How to Run
+```bash
+python hivebox.py
+
