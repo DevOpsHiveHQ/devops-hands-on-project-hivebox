@@ -1,0 +1,52 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# MacOS + Windows junk files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker files
+*.tar
+*.pid
+
+# Python dependency/environment files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test cache
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# Docker Compose override (if used)
+docker-compose.override.yml
+
+# MyPy / Pylint / coverage
+.mypy_cache/
+.pylint.d/
+.cache/
+coverage.xml
+
+# dotenv files (if you ever use secrets)
+.env
+.env.*
+
+# Build artifacts
+build/
+dist/
+*.egg-info/

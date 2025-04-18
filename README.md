@@ -62,3 +62,12 @@ Here is a pre-start checklist:
 ```bash
 python hivebox.py
 
+## 🧪 Testing the HiveBox App via Docker
+
+### 1. Build the Docker Image
+
+Run this command in your project directory:
+
+```bash
+docker build -t hivebox:0.0.1 .
+
